@@ -13,7 +13,7 @@
 java cd java;com.Server  
 
 ### Send Files Testing by Java Client  
-cd java; java com.Client ip_address port <file list>  
+cd java; java com.Client ip_address port \<file list\>  
 when reciving files, the server will save the files in /home/roc/recieved/(you should change it upto yourself)  
 
 ### Send Text Message by Android Client
