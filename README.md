@@ -1,6 +1,5 @@
 # A Simple IM System by Java Socket
 ##### Server : Reciving Message
-##### Client : Send Mssage
 ##### Java Client : Send File
 ##### Android Client : Send Text Message
 
