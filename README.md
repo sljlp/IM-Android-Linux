@@ -2,7 +2,7 @@
 ##### Server : Reciving Message
 ##### Client : Send Mssage
 ##### Java Client : Send File
-##### Dndroid Client : Send Text Message
+##### Android Client : Send Text Message
 
 ## Usage
 ### Compile Server and Client on Java
