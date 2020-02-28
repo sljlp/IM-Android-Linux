@@ -6,14 +6,14 @@
 
 ### Usage
 ##### compile Server and Client on Java
-1. javac com/Server.java  
-2. javac com/Client.java  
+1. cd java; javac com/Server.java  
+2. cd java; javac com/Client.java  
 3. android  
 ##### start Server on Java  
-java com.Server  
+java cd java;com.Server  
 
 #### send files testing by java client  
-java com.Client ip_address port <file list>  
+cd java; java com.Client ip_address port <file list>  
 when reciving files, the server will save the files in /home/roc/recieved/(you should change it upto yourself)  
 
 #### send text message by android client
