@@ -15,7 +15,7 @@ java cd java;com.Server
 cd java; java com.Client \<ip_address\> \<port\> \<file list\>  
 when reciving files, the server will save the files in /home/roc/recieved/(you should change it upto yourself)  
 
-### Send Text Message by Android Client
+### Send Text Message by Android Client (unable now)
 1. start up NetT app  
 2. set ip address and port  
 3. input some message in the editor  
